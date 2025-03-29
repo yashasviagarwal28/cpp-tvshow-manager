@@ -1,0 +1,77 @@
+================================================
+Testing FlexLL...
+Testing empty list... passed!
+Testing append... passed!
+Testing prepend... passed!
+Testing sort... passed!
+Testing thin... passed!
+Testing iteration... passed!
+Testing flush... passed!
+Testing self-prepending... passed!
+Testing Actor compare... passed!
+Testing Episode compare... 
+Comparing Episodes: Pilot (S1) vs Finale (S1)
+Compare result: 1
+passed!
+All FlexLL tests passed!
+================================================
+
+================================================
+Testing TVShow: 'The Life of a Last-Minute Coder'...
+
+Actors after adding:
+TV Show: The Life of a Last-Minute Coder
+
+Cast:
+[Professor Debugging] [Stack Overflow Addict] [Sleep-Deprived Student] [Group Project Ghost] [Sleep-Deprived Student] 
+
+Episodes:
+
+================================================
+
+Episodes after adding:
+TV Show: The Life of a Last-Minute Coder
+
+Cast:
+[Professor Debugging] [Stack Overflow Addict] [Sleep-Deprived Student] [Group Project Ghost] [Sleep-Deprived Student] 
+
+Episodes:
+[S1: Day 1: I Will Start Early This Time] [S1: Day 7: Plenty of Time Left] [S2: Day 14: The Debugging Spiral] [S4: Day 15: Why Didn't It Work?] [S2: Day 14: The Debugging Spiral] 
+================================================
+
+Actors and Episodes after sorting:
+TV Show: The Life of a Last-Minute Coder
+
+Cast:
+[Group Project Ghost] [Professor Debugging] [Sleep-Deprived Student] [Sleep-Deprived Student] [Stack Overflow Addict] 
+
+Episodes:
+[S1: Day 1: I Will Start Early This Time] [S1: Day 7: Plenty of Time Left] [S2: Day 14: The Debugging Spiral] [S2: Day 14: The Debugging Spiral] [S4: Day 15: Why Didn't It Work?] 
+================================================
+
+Actors Episodes after removing duplicates:
+TV Show: The Life of a Last-Minute Coder
+
+Cast:
+[Group Project Ghost] [Professor Debugging] [Sleep-Deprived Student] [Stack Overflow Addict] 
+
+Episodes:
+[S1: Day 1: I Will Start Early This Time] [S1: Day 7: Plenty of Time Left] [S2: Day 14: The Debugging Spiral] [S4: Day 15: Why Didn't It Work?] 
+================================================
+
+Flushing the show data (Just like forgetting everything after (sometimes before) the exam)...
+
+After flushing show:
+TV Show: The Life of a Last-Minute Coder
+
+Cast:
+
+
+Episodes:
+
+================================================
+
+'The Life of a Last-Minute Coder' tests passed! (But the show is not over yet...)
+================================================
+
+All tests passed successfully!
